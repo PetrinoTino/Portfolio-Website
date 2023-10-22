@@ -43,7 +43,9 @@ display:cover;
 
 
 } 
- 
+ .home-img{
+    width: 400px;
+ }
 
 
 .navlist{
@@ -238,7 +240,7 @@ grid-gap: 2rem;
 }
 .about-img img {
     max-width: 100%;
-    width: 540px;
+    width: 500px;
     height: auto;
     border-radius: 40px 30px;
 border: none;
